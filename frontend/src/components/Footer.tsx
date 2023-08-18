@@ -30,7 +30,7 @@ const Footer: FC = (): JSX.Element => {
                 </div>
                 <div className="flex flex-col">
                     <div className="text-white text-sm leading-tight font-normal">
-                        © Copyright 2022, All Rights Reserved by AuthentiScan
+                        © Copyright 2023, All Rights Reserved by AuthentiScan
                     </div>
                 </div>
             </div>
